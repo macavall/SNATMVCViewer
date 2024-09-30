@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using SNATMVCViewer.Models;
 using System.Diagnostics;
 
